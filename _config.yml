@@ -10,9 +10,7 @@ exclude:
   - Rakefile
   - Dockerfile
   - zeppelin-site.sh
-  - .tweet-cache
   - .asf.yaml
-plugins: ['jekyll-twitter-plugin']
 highlighter: true
 markdown: redcarpet
 encoding: utf-8

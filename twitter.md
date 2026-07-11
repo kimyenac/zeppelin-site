@@ -18,7 +18,8 @@ limitations under the License.
     <br/>
     <div class="row">
       <div class="col-md-12 col-sm-12 col-xs-12 text-center">
-        {% twitter https://twitter.com/ApacheZeppelin maxwidth=500 limit=4 align=center chrome=nofooter %}
+        <a class="twitter-timeline" data-width="500" data-tweet-limit="4" data-chrome="nofooter" href="https://twitter.com/ApacheZeppelin?ref_src=twsrc%5Etfw">Tweets by ApacheZeppelin</a>
+        <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
       </div>
       <div class="col-md-12 col-sm-12 col-xs-12 text-center twitterBtn">
         <p style="text-align:center; margin-top: 32px; font-size: 12px; color: gray; font-weight: 200; font-style: italic; padding-bottom: 0;">See more tweets or</p>
