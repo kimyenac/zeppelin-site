@@ -16,7 +16,6 @@
 source 'https://rubygems.org'
 gem 'github-pages'
 gem 'redcarpet'
-gem 'jekyll-twitter-plugin'
 gem 'nokogiri', '1.19.3'
 gem 'mini_portile2', '2.8.4'
 
